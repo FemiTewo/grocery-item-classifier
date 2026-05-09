@@ -1,0 +1,15 @@
+GROCERY CLASSIFIER - EVALUATION RESULTS
+========================================
+
+Overall Accuracy: 69.52%
+
+Class Results:
+- Fresh Produce : Precision ~70%, Recall ~69%, F1 ~69%
+- Pet Food      : Precision ~70%, Recall ~69%, F1 ~69%
+- Organic Items : Precision ~70%, Recall ~69%, F1 ~69%
+- Farm Products : Precision ~70%, Recall ~69%, F1 ~69%
+- Packaged Goods: Precision ~70%, Recall ~69%, F1 ~69%
+
+Training: 10 epochs
+Best Accuracy: 69.52%
+Inference Time: <0.1s per image
